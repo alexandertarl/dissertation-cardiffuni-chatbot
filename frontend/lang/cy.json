@@ -1,0 +1,55 @@
+{
+    "titles": {
+        "home": "Cartref",
+        "chatbot": "ChatBot",
+        "signin": "Arwyddo mewn",
+        "trychatbot": "Ceisio ChatBot",
+        "signout": "Allgofnodi"
+    },
+    "index": {
+        "about": "Dyma Chatbot am ddim sy’n gallu rhoi unrhyw wybodaeth neu ateb unrhyw gwestiynau am fywyd myfyrwyr!"
+    },
+    "signin": {
+        "welcome": "Croeso!",
+        "username": "Enw Defnyddiwr",
+        "password": "Cyfrinair",
+        "show": "Dangos cyfrinair",
+        "signin": "Mewngofnodi"
+    },
+    "chatbot": {
+        "newchat": "Sgwrs newydd",
+        "send": "Danfon",
+        "message": "Danfon neges I chatbot...",
+        "history_login": "Mewngofnodwch i gael mynediad at hanes sgwrsio"
+    },
+    "speechRec": {
+        "micDisabled": "Mic Anabl",
+        "stopRecording": "Stopio Recordio",
+        "startRecording": "Dechrau Recordio"
+    },
+    "dashboard": {
+        "conversations": "Sgwrsiadau",
+        "lastMinute": "Yr Uchafswm Diwethaf",
+        "avgLasthour": "Cyfartaledd dros yr Awr Ddiwethaf",
+        "authUserMessage": "Negeseuon Defnyddwyr Wedi’u Dilysu",
+        "unauthUserMessage": "Negeseuon Defnyddwyr Heb eu Dilysu",
+        "avg24hr": "Cyfartaledd dros y 24 Awr Diwethaf",
+        "msgCount": "Nifer y Negeseuon",
+        "sentReceived24h": "Anfon/derbyn dros y 24 Awr Diwethaf",
+        "activeConversations": "Sgwrsiadau Gweithgar",
+        "toolUsage": "Defnyddio’r Teclyn",
+        "numberOfConv24h": "Nifer y Sgwrsiadau (24 Awr)",
+        "numberOfConv7d": "Nifer y Sgwrsiadau (7 Diwrnod)",
+        "recentActivity": "Dadansoddiadau diweddar",
+        "historicalStats": "Ystadegau hanesyddol",
+        "numberOfMessages7d": "Nifer y negeseuon (7 diwrnod)",
+        "numberOfConv1h": "Nifer y sgyrsiau (1 awr)"
+    },
+    "feedback": {
+        "feedbackTitle": "Ffurflen Adborth",
+        "textareaPlaceholder": "Rhowch adborth ar y neges uchod (250 nod)",
+        "positiveLabel": "Anfonwch fel Adborth Cadarnhaol",
+        "negativeLabel": "Anfon fel Adborth Negyddol",
+        "close": "Cau"
+    }
+}

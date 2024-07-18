@@ -1,0 +1,55 @@
+{
+    "titles": {
+        "home": "Home",
+        "chatbot": "ChatBot",
+        "signin": "Sign In",
+        "trychatbot": "Try ChatBot",
+        "signout": "Sign Out"
+    },
+    "index": {
+        "about": "This is a free-to-use chatbot that can return any information or answer any questions you may have relating to your student life!"
+    },
+    "signin": {
+        "welcome": "Welcome!",
+        "username": "Username",
+        "password": "Password",
+        "show": "Show Password",
+        "signin": "Sign in"
+    },
+    "chatbot": {
+        "newchat": "New Chat",
+        "send": "Send",
+        "message": "Message the ChatBot...",
+        "history_login": "Please login to access chat history"
+    },
+    "speechRec": {
+        "micDisabled": "Mic Disabled",
+        "stopRecording": "Stop Recording",
+        "startRecording": "Start Recording"
+    },
+    "dashboard": {
+        "conversations": "Conversations",
+        "lastMinute": "Last Minute",
+        "avgLasthour": "Average over last Hour",
+        "authUserMessage": "Authenicated User Messages",
+        "unauthUserMessage": "Unauthenicated User Messages",
+        "avg24hr": "Average over last 24h",
+        "msgCount": "Message Count",
+        "sentReceived24h": "Sent/Received over last 24h",
+        "activeConversations": "Active Conversations",
+        "toolUsage": "Tool Usage",
+        "numberOfConv24h": "Number of Conversations (24hr)",
+        "numberOfConv7d": "Number of Conversations (7d)",
+        "recentActivity": "Recent Activity",
+        "historicalStats": "Historical Stats",
+        "numberOfMessages7d": "Number of Messages (7d)",
+        "numberOfConv1h": "Number of Conversations (1hr)"
+    },
+    "feedback": {
+        "feedbackTitle": "Feedback Form",
+        "textareaPlaceholder": "Please provide feedback on the message above (250 chars)",
+        "positiveLabel": "Send as Positive Feedback",
+        "negativeLabel": "Send as Negative Feedback",
+        "close": "close"
+    }
+}

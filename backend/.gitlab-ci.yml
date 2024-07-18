@@ -1,0 +1,29 @@
+image: python:3.11-slim
+
+
+variables:
+  TOGETHER_API_KEY: $TOGETHER_API_KEY
+
+cache:
+  paths:
+    - /root/.cache/pip
+    - /var/cache/apt/
+
+stages:
+  - lint
+  - test
+
+before_script:
+  - pip install -r requirements.txt
+
+lint:
+  stage: lint
+  script:
+    - ruff check .
+
+test:
+  stage: test
+  script:
+    - playwright install-deps
+    - playwright install
+    - pytest

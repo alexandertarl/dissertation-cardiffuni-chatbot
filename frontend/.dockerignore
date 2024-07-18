@@ -1,0 +1,29 @@
+Dockerfile
+.dockerignore
+
+# Git
+.git/
+.gitignore
+*.md
+
+# Nuxt dev/build outputs
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+# Node dependencies
+node_modules
+
+# Logs
+logs
+*.log
+
+# Local env files
+.env.*
+!.env
+
+# Editor files
+.vscode/
